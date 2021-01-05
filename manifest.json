@@ -1,0 +1,16 @@
+{
+    "name": "D2Y-PWA",
+    "short_name": "D2Y",
+    "description": "Aplikasi PWA pertama saya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#1671fa",
+    "theme_color": "#1671fa",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
